@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/clhexareslab/recovery_device_xiaomi_ares.git -b fox_11.0"
+export DT_LINK="https://github.com/AngelMende3z/android_device_samsung_j7elte-ofrp.git -b fox_11.0"
 
 export DEVICE="j7elte"
 export OEM="samsung"
